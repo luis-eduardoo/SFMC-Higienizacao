@@ -1,4 +1,4 @@
-# [🇧🇷] Higienização Salesforce Marketing Cloud
+# [🇧🇷] Higienização Salesforce Marketing Cloud 🗑🤕
 
 - Sua conta Salesforce está com muitos contatos não saudáveis?
 - Sua conta Salesforce está com contatos duplicados?
@@ -10,7 +10,7 @@ Caso tenha qualquer tipo de dúvida, sugestões ou melhorias, fico disponível p
 
 
 
-# [🇧🇷] Salesforce Marketing Cloud Sanitization
+# [EN] Salesforce Marketing Cloud Sanitization 🗑🤕
 
 - Does your Salesforce account have a lot of unhealthy contacts?
 - Does your Salesforce account have duplicate contacts?
