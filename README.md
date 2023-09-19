@@ -10,7 +10,7 @@ Caso tenha qualquer tipo de dúvida, sugestões ou melhorias, fico disponível p
 
 
 
-# [EN] Salesforce Marketing Cloud Sanitization 🗑🤕
+# [EN] Salesforce Marketing Cloud Cleanup 🗑🤕
 
 - Does your Salesforce account have a lot of unhealthy contacts?
 - Does your Salesforce account have duplicate contacts?
