@@ -27,7 +27,8 @@ SELECT
     EmailAddress
 FROM _Subscribers
 WHERE
-    EmailAddress LIKE '%teste%'
+    EmailAddress LIKE 'teste%'
+OR  EmailAddress LIKE '%@teste%'
 
 /* [ETAPA 4] ASSINANTES HARD BOUNCE ==> VOL. XX.XX ctts */
 
